@@ -1,0 +1,13 @@
+{
+  "serial": {
+    "port": "/dev/ttyUSB0",
+    "baudrate": 115200
+  },
+  "smtp": {
+    "server": "",
+    "port": 587,
+    "user": "",
+    "password": ""
+  },
+  "default_sender": "Mesh-Service"
+}
